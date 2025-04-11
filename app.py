@@ -3,6 +3,8 @@ import matplotlib.pyplot as plt
 
 # Başlık
 st.title("Teknolojiye Ayırdığın Zaman Testi")
+st.title("Merhaba Ben Yağız Gülbe  Bu siteyi ne kadar zamanımızı Teknolojiye ayırıyoruz onu grafik arıcılıyla gösterir ")
+st.title("Kullandıklarım veri için #Pandas #matplotlib")
 
 # Kullanıcıya sorular sormak
 st.write("Bu test ile teknolojiye ayırdığın zamanı öğrenebilirsin.")
@@ -14,6 +16,9 @@ questions = [
     "Sosyal medya kullanır mısın?",
     "YouTube'da video izler misin?",
     "Teknolojik haberleri takip eder misin?"
+    "FPS Oyunları Oynarmısın"
+    "Twiter Kullanırmısın"
+    "Dualingo Kullanırmısnın"
 ]
 
 # Cevapları tutmak için bir liste
